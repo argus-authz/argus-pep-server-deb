@@ -7,5 +7,6 @@ usr/share/argus/pepd/sbin
 var/lib/argus/pepd
 var/lib/argus/pepd/lib
 var/lib/argus/pepd/lib/endorsed
+var/lib/argus/pepd/lib/provided
 var/log/argus/pepd
 
