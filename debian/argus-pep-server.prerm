@@ -31,6 +31,7 @@ case "$1" in
     # delete all old bundled jar files and links
     if [ -d /var/lib/argus/pepd/lib ] ; then
         rm -f /var/lib/argus/pepd/lib/endorsed/*.jar 
+        rm -f /var/lib/argus/pepd/lib/provided/*.jar 
         rm -f /var/lib/argus/pepd/lib/*.jar
     fi
     ;;
