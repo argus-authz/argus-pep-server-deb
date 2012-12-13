@@ -30,7 +30,7 @@ case "$1" in
 esac
 
 # unregister the service
-if [ "$1" = "purge" ] ; then
+if [ "$1" = "remove" ] ; then
     update-rc.d argus-pepd remove >/dev/null
 fi
 
