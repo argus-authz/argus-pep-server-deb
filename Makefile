@@ -21,11 +21,11 @@ name = argus-pep-server
 version = 1.6.0
 release = 1
 
+dist_url = http://argus-authz.github.com/$(name)/distrib/$(name)-$(version).tar.gz
+
 git_url = https://github.com/argus-authz/$(name).git
 git_branch = EMI-3
 #git_branch = $(version)
-
-dist_url = https://github.com/downloads/argus-authz/$(name)/$(name)-$(version).tar.gz
 
 debbuild_dir = $(CURDIR)/debbuild
 
