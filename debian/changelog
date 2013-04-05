@@ -1,6 +1,12 @@
+argus-pep-server (1.6.1-1) unstable; urgency=low
+
+  * Upstream version 1.6.1 for EMI-3 update.
+
+ -- Valery Tschopp <valery.tschopp@switch.ch>  Fri, 05 Apr 2013 14:23:03 +0200
+
 argus-pep-server (1.6.0-3) unstable; urgency=low
 
-  * Upstream version 1.6.0 for EMI-3 (RC3).
+  * Upstream version 1.6.0 for EMI-3 release.
 
  -- Valery Tschopp <valery.tschopp@switch.ch>  Wed, 30 Jan 2013 16:11:07 +0100
 
